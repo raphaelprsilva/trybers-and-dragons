@@ -95,7 +95,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   - `git clone https://github.com/tryber/sd-019-a-project-trybers-and-dragons.git`.
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd sd-019-a-projects-and-dragons`
+    - `cd sd-019-a-project-trybers-and-dragons`
 
   2. Instale as dependências
 
